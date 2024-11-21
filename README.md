@@ -67,18 +67,6 @@ Drone-Footage-Person-Detection is a Python-based project designed to analyze dro
 - The processed video with detected people highlighted will be saved to the output directory.
 - The file is uniquely named based on the base name (`Drone_analysis`) and an incrementing number.
 
----
-
-## Example
-Original Video:
-
-![Original Frame Example](example_images/original_frame.jpg)
-
-Processed Video:
-
-![Processed Frame Example](example_images/processed_frame.jpg)
-
----
 
 ## Customization
 ### Confidence Threshold:
