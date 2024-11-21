@@ -22,11 +22,7 @@ Drone-Footage-Person-Detection is a Python-based project designed to analyze dro
 ---
 
 ## Installation
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/your-username/aerovision.git
-    cd aerovision
-    ```
+1. Clone this repository
 
 2. Install the required dependencies:
     ```bash
