@@ -4,7 +4,7 @@ This guide provides step-by-step instructions on how to use the YOLOv5 Person De
 
 ---
 
-## Quick Start (Simple Method)
+## Quick Start 
 
 1. **Download the ZIP File**:
    - Go to the repository on GitHub.
