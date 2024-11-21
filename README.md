@@ -24,23 +24,9 @@ Drone-Footage-Person-Detection is a Python-based project designed to analyze dro
 ## Installation
 1. Clone this repository
 
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+2. Install the required dependencies
 
 3. Ensure you have a YOLOv5-supported video file to analyze.
-
----
-
-## Usage
-1. Place your video file in the desired directory.
-2. Update the `video_path` variable in `main.py` with the path to your video file.
-3. Run the program:
-    ```bash
-    python main.py
-    ```
-4. View the output video in the specified output directory.
 
 ---
 
